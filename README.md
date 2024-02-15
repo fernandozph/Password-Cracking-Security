@@ -2,7 +2,7 @@
 
 ## Description
 
-This Android application aims to educate users about password security by allowing them to generate and crack their own passwords. Users can crack password hashes, or generate and crack their own passwords. There is also a short tutorial where users can learn more about password cracking and security in general. **Built for Google Pixel 5 API 33 and above.** App was developed following the Model-View-Controller design patter and the Agile development methodology.
+This Android application aims to educate users about password security by allowing them to generate and crack their own passwords. Users can crack password hashes, or generate and crack their own passwords. There is also a short tutorial where users can learn more about password cracking and security in general. **Built for Google Pixel 5 API 33 and above.** App was developed following the Model-View-Controller design pattern and the Agile Development methodology.
 
 ## [Video Overview of the App](https://youtu.be/K8kAZK_qXyg)
 
